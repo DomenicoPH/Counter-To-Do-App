@@ -1,0 +1,14 @@
+:root{
+    --pix: 'pixel';
+
+    --gr: greenyellow;
+    --gr-hover: #ccff80;
+    --pr: purple;
+    --pr-dark: rgb(88, 0, 88);
+    --black: #1f1f1f;
+}
+
+@font-face {
+    font-family: pixel;
+    src: url('/fonts/PixelifySans-VariableFont_wght.ttf') format('truetype');
+}
